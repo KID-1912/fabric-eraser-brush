@@ -1,0 +1,9 @@
+{
+  "name": "fabric-eraser-brush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fabric.erasing.js",
+  "scripts": {},
+  "author": "KID-1912",
+  "license": "ISC"
+}
