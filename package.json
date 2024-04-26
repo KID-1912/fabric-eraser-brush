@@ -1,9 +1,26 @@
 {
   "name": "fabric-eraser-brush",
   "version": "1.0.0",
-  "description": "",
+  "description": "fabric.js adds erasing brush support, sourced from the official custom build (Erasing) as an npm package.",
   "main": "fabric.erasing.js",
   "scripts": {},
+  "keywords": [
+    "fabric",
+    "fabricjs",
+    "eraser",
+    "brush"
+  ],
   "author": "KID-1912",
-  "license": "ISC"
+  "homepage": "https://github.com/KID-1912/fabric-eraser-brush",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/fabric-eraser-brush.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fabric": "^5.3.0"
+  },
+  "peerDependencies": {
+    "fabric": "^5.3.0"
+  }
 }
