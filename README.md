@@ -19,7 +19,7 @@
   </a>
   <img
      alt="version"
-     src="https://img.shields.io/badge/version-1.0.0-blue">
+     src="https://img.shields.io/badge/version-1.0.1-blue">
 </p>
 
 ## Install
@@ -32,7 +32,7 @@ npm install fabric-eraser-brush -S
 
 ```js
 import { fabric } from "fabric";
-import "@/plugins/fabric.Erasing.js";
+import "fabric-eraser-brush";
 
 const canvas = new fabric.Canvas("canvas", {
   isDrawingMode: true,

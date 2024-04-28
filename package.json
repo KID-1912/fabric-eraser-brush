@@ -1,6 +1,6 @@
 {
   "name": "fabric-eraser-brush",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fabric.js adds erasing brush support, sourced from the official custom build (Erasing) as an npm package.",
   "main": "fabric.erasing.js",
   "scripts": {},
